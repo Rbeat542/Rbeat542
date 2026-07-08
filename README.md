@@ -7,7 +7,6 @@ Java Developer
 
 Switched career after > 20 years in Construction/Engineering business. Trying to find my new way in life.
 
-*   🌍  I'm based in Saint-Petersburg, Russia
 *   ✉️  You can contact me at [a.makevnin@gmail.com](mailto:a.makevnin@gmail.com)
 *   🧠  I'm learning Java
 *   👀  I like technologies, devices, auto & moto, music, watersports, hiking ...
